@@ -1,0 +1,29 @@
+{
+  "name": "weather-finder-app",
+  "version": "1.0.0",
+  "description": "Enter City or Zipcode to find the weather in your place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsrrinathreddy/weather-finder-app.git"
+  },
+  "keywords": [
+    "react-16",
+    "react-router-4",
+    "redux",
+    "reduc-saga",
+    "webpack4",
+    "babel",
+    "firebase",
+    "node"
+  ],
+  "author": "g srrinath reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsrrinathreddy/weather-finder-app/issues"
+  },
+  "homepage": "https://github.com/gsrrinathreddy/weather-finder-app#readme"
+}
